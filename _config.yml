@@ -62,8 +62,8 @@ repository_tree: master
 ##############################
 paths:
   root    : / # title link url, "/" (default)
-  home    : /blog # home layout url, "/" (default)
-  archive : /blog/archive.html # "/archive.html" (default)
+  home    : / # home layout url, "/" (default)
+  archive : /archive.html # "/archive.html" (default)
   rss     : /feed.xml # "/feed.xml" (default)
 
 
