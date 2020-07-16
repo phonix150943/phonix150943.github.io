@@ -90,7 +90,7 @@ mathjax_autoNumber: true # false (default),
 mermaid: true # false (default),
 
 ## Chart
-chart:true # false (default),
+chart: true # false (default),
 
 
 ## => Paginate
